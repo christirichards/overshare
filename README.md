@@ -17,7 +17,7 @@ Currently, Overshare includes over 45+ (and growing) social sharing sites and op
 
 ### License
 
-MIT
+GNU AGPLv3
 
 ### Contact
 
